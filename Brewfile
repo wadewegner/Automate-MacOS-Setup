@@ -25,7 +25,7 @@ brew "goenv"                                # Go version management
 brew "gnu-sed"                              # GNU version of sed
 brew "grafana"                              # grafana dashboard "brew services start grafana"
 brew "graphviz"                             # Lib to visualize data
-brew "heroku/brew/heroku"                   # Heroku CLI
+# brew "heroku/brew/heroku"                   # Heroku CLI
 brew "htop"                                 # Better process tool
 brew "hugo"                                 # Static site generator
 brew "jq"                                   # JSON command-line tool
@@ -65,7 +65,7 @@ cask "discord"                              # Discord client (voice chat)
 # cask "expressvpn"                           # Express VPN
 # cask "figma"                                # Figma client
 # cask "firefox"                              # Firefox browser
-cask "font-cascadia"                        # Cascadia dev font
+# cask "font-cascadia"                        # Cascadia dev font
 # cask "google-chrome"                        # Chrome browser
 cask "kap"                                  # Screen capture animated gifs
 cask "keepingyouawake"                      # Keeps MacOS from going to sleep indefinitely
