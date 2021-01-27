@@ -8,7 +8,7 @@ tap "homebrew/services"
 # tap "azure/functions"
 tap "homebrew/cask-fonts"
 # brew "azure-cli"                            # Azure CLI
-brew "azure-functions-core-tools"
+# brew "azure-functions-core-tools"
 # brew "aircrack-ng"                        # Wifi network security tool (blocked by Avast)
 brew "baobab"                               # Disk Stats
 brew "bash-completion"                      # Bash Completion
@@ -32,7 +32,7 @@ brew "jq"                                   # JSON command-line tool
 # brew "kubectx"                            # Context switch for kubectl
 # brew "kubernetes-cli"                     # Kubernetes cLI
 # brew "kubernetes-helm"                    # Helm client for Kubernetes
-brew "mas"                                  # Mac App store app to download existing apps
+# brew "mas"                                  # Mac App store app to download existing apps
 brew "mitmproxy"                            # Free proxy for analyzing web traffic (like Fiddler)
 # brew "mongodb/brew/mongodb-community-shell"   # MongoDB Shell
 brew "nmap"                                 # Network utility
