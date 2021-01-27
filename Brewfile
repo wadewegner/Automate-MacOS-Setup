@@ -60,7 +60,7 @@ cask "background-music"                     # Windows-like per-app audio control
 cask "dash"                                 # Documentation client
 # cask "docker"                               # Docker container tools
 cask "dotnet-sdk"                           # .NET language tools
-cask "discord"                              # Discord client (voice chat)
+# cask "discord"                              # Discord client (voice chat)
 # cask "epic-games"                           # Epic Games
 # cask "expressvpn"                           # Express VPN
 # cask "figma"                                # Figma client
@@ -84,7 +84,7 @@ cask "postman"                              # REST-API tool
 # cask "skype"                                # Skype client
 # cask "slack"                                # Slack client
 # cask "spectacle"                            # Windows like move / resize windows
-cask "wifispoof"                            # Spoof MAC Address
+# cask "wifispoof"                            # Spoof MAC Address
 # cask "spotify"                              # Music service
 # cask "steam"                                # Gaming service
 cask "suspicious-package"                   # Inspect Mac app packages before installing
